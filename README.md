@@ -1,5 +1,7 @@
 # DownPlaylistFull
 
+Don't know English? [CLICK HERE](https://github.com/DaviJoseMach/DownPlaylistFull/blob/main/ReadmePt-BR.md)
+
 DownPlaylistFull was created to address the need for downloading all videos from a YouTube playlist quickly, efficiently, and in the highest possible quality. Currently, there are few reliable websites or projects dedicated to this, which is why DownPlaylistFull was developed.
 
 ## Technologies Used
