@@ -29,7 +29,19 @@ Para **Linux**:
 pip install yt-dlp
 
 ```
+Para **Windows**:
 
+```sh
+pip install browser-cookie3
+
+```
+
+Para **Linux**:
+
+```sh
+pip install browser-cookie3
+
+```
 ### Instalando FFmpeg
 
 Para **Windows** (usando Winget):
